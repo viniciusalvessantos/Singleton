@@ -2,7 +2,7 @@
 {
     static void Main(string[] args)
     {
-        // The client code.
+        
 
         Console.WriteLine(
             "{0}\n{1}\n\n{2}\n",
